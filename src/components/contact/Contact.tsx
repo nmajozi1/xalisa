@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <div className={classes.container}>
       <div className={classes.body}>
-        <span>Malcom Xalisa (Director)</span>
+        <span>Malcolm Xalisa (Director)</span>
         <img alt="malcom" src="malcomProfile.jpeg" />
         <span>079 081 3372 / 077 364 5345</span>
         <span>andilemalcomxalisa@gmail.com</span>
