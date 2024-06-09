@@ -37,6 +37,7 @@ const Banner = () => {
         <CardImage image="mallSecurity.jpeg" />
         <CardImage image="officeSecurity.jpeg" />
         <CardImage image="complexSecurity.jpeg" />
+        <CardImage image="eventsSecurity.jpeg" />
       </div>
       {/* <img style={{width: '100%'}} alt="cleaning" src="securityThree.jpeg" /> */}
     </div>
